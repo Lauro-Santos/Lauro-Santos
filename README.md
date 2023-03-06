@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4d00&size=36&center=true&vCenter=true&width=1000&lines=Oi,+sou+Lauro+Santos,+desenvolvedor+front-end%20)](https://git.io/typing-svg)
 
 <div style="display: flex; gap: 20px;">
-<img width="150px" src="./assets/avatar.gif">Tenho uma paixão séria por design gráfico, design de interface do usuário e criação de experiências de usuário intuitivas e dinâmicas com um visual atrativo.
+<img width="150px" src="./assets/avatar.gif"><h3>Tenho uma paixão séria por design gráfico, design de interface do usuário e criação de experiências de usuário intuitivas e dinâmicas com um visual atrativo.</h3>
 </div>
 
 #
