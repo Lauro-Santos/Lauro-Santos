@@ -6,6 +6,8 @@
 <img width="150px" src="./assets/avatar.gif" autoplay><h3>Tenho uma paixão séria por design gráfico, design de interface do usuário e criação de experiências de usuário intuitivas e dinâmicas com um visual atrativo.</h3>
 </div>
 
+<h2>Acesse o meu <a href="https://lauro-santos.vercel.app/">Portifólio</a></h2>
+
 #
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lauro-Santos&bg_color=101010&color=ff4d00&line=e25508&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
